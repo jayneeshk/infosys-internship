@@ -58,5 +58,5 @@ python app.py
 
 
 ## Access the app in browser:
-http://<server-ip>:5000
+http://<server-ip>5000
 ============================
